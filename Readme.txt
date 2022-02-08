@@ -1,0 +1,1 @@
+This was a group project in a software system development class taken at USF Fall 2021. See the project specifications for understanding the assignment. Made with Windows Form and C#.

@@ -1,0 +1,9 @@
+C:\Users\justi\Downloads\DieRollAkashResubmission 2\DieRollAkashResubmission\BlackJackAkash\bin\Debug\BlackJackAkash.exe.config
+C:\Users\justi\Downloads\DieRollAkashResubmission 2\DieRollAkashResubmission\BlackJackAkash\bin\Debug\BlackJackAkash.exe
+C:\Users\justi\Downloads\DieRollAkashResubmission 2\DieRollAkashResubmission\BlackJackAkash\bin\Debug\BlackJackAkash.pdb
+C:\Users\justi\Downloads\DieRollAkashResubmission 2\DieRollAkashResubmission\BlackJackAkash\obj\Debug\G19BlackJack.mainWin.resources
+C:\Users\justi\Downloads\DieRollAkashResubmission 2\DieRollAkashResubmission\BlackJackAkash\obj\Debug\G19BlackJack.playerForm.resources
+C:\Users\justi\Downloads\DieRollAkashResubmission 2\DieRollAkashResubmission\BlackJackAkash\obj\Debug\BlackJackAkash.Properties.Resources.resources
+C:\Users\justi\Downloads\DieRollAkashResubmission 2\DieRollAkashResubmission\BlackJackAkash\obj\Debug\G19BlackJack.csproj.GenerateResource.cache
+C:\Users\justi\Downloads\DieRollAkashResubmission 2\DieRollAkashResubmission\BlackJackAkash\obj\Debug\BlackJackAkash.exe
+C:\Users\justi\Downloads\DieRollAkashResubmission 2\DieRollAkashResubmission\BlackJackAkash\obj\Debug\BlackJackAkash.pdb
